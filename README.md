@@ -1,7 +1,11 @@
 ## Hi there, I'm Augus 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=draugus&show_icons=true&hide_title=true&hide_border=true" alt="DrAugus's GitHub stats" align="right">
+- ❓Why is Augus?
+- ✔️I do not remember it... Don't know where to see this word means love god. The person represented by this word who loves everyone. I think that's who I am.
+- ❓Why the name has 'Dr'?
+- ✔️... once wanted to be a doctor... maybe wanted to be a phd. But now neither.
 
+<img src="https://github-readme-stats.vercel.app/api?username=draugus&show_icons=true&hide_title=true&hide_border=true" alt="DrAugus's GitHub stats" align="right">
 
 > Do you really think I'm a **front-end** developer? No, I'm a **backend** developer.
 
@@ -10,6 +14,5 @@
 - ℹ️ [ask me](https://github.com/DrAugus/DrAugus/issues)
 - 🔗 [website](https://augusmeow.cn/) about [genshin](https://augusmeow.cn/list/genshin), blog, and more.
 - 🎮 **GENSHIN**, **OVERWATCH**
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAugus&langs_count=8&layout=compact&hide_title=true&hide_border=true" alt="Top langs" align="left">
