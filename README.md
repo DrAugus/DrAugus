@@ -3,7 +3,7 @@
 - ❓Why is Augus?
 - ✔️I do not remember it... Don't know where to see this word means love god. The person represented by this word who loves everyone. I think that's who I am.
 - ❓Why the name has 'Dr'?
-- ✔️... once wanted to be a doctor... maybe wanted to be a phd. But now neither.
+- ✔️... once wanted to be ein Arzt... maybe wanted to be a phd. But now neither.
 
 <img src="https://github-readme-stats.vercel.app/api?username=draugus&show_icons=true&hide_title=true&hide_border=true" alt="DrAugus's GitHub stats" align="right">
 
