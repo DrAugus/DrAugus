@@ -13,7 +13,7 @@
 - 🐕‍🦺 currently working on DATA SECURITY
 - 📚 now learning C++, C#
 - ℹ️ [ask me](https://github.com/DrAugus/DrAugus/issues)
-- 🔗 [website](https://augusmeow.cn/) about [genshin](https://augusmeow.cn/list/genshin), blog, and more.
+- 🔗 [website](https://augusmeow.cn/) about [genshin](https://augusmeow.cn/list/genshin), [blog](https://augusmeow.cn/blog/), [royal family](https://augusmeow.cn/blog/) and [more](https://augusmeow.cn/blog/).
 - 🎮 **GENSHIN**, **OVERWATCH**
 - 🥂 daily else, practice [Italian](https://www.edilingua.it/), [French](https://mlp.fltrp.com/wys/bookstore/file?id=1135)
 
