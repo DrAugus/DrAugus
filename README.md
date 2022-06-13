@@ -18,4 +18,5 @@
 - 🥂 daily else, practice [Italian](https://www.edilingua.it/), [French](https://mlp.fltrp.com/wys/bookstore/file?id=1135)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAugus&langs_count=8&layout=compact&hide_title=true&hide_border=true" alt="Top langs" align="left">
+![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/languages.svg)
