@@ -1,3 +1,5 @@
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Arizonia&size=25&color=F7825D&lines=There+is+a+sweet+smell+of+roses+in+the+air.;love+at+first+sight;Look+at+that+moon.+It's+as+bright+as+a+light+bulb.)](https://git.io/typing-svg)
+
 ## Hi there, I'm Augus 👋
 
 - ❓Why is Augus?
@@ -20,3 +22,5 @@
 
 ![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/languages.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draugus&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draugus&theme=github)
