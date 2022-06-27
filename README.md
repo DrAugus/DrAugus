@@ -22,5 +22,5 @@
 
 ![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/DrAugus/github-stats/master/generated/languages.svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draugus&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draugus&theme=github)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=draugus&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=draugus&theme=github) -->
