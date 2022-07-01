@@ -15,7 +15,6 @@
 - 🐕‍🦺 currently working on DATA SECURITY
 - 📚 now learning C++, C#
 - ℹ️ [ask me](https://github.com/DrAugus/DrAugus/issues)
-- 🔗 [website](https://draugus.github.io/) about [genshin](https://draugus.github.io/list/genshin), [blog](https://draugus.github.io/blog/), [royal family](https://draugus.github.io/blog/) and [more](https://draugus.github.io/blog/).
 - 🎮 **GENSHIN**, **OVERWATCH**
 - 🥂 daily else, practice [Italian](https://www.edilingua.it/), [French](https://mlp.fltrp.com/wys/bookstore/file?id=1135)
 
