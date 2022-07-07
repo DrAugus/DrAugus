@@ -1,5 +1,6 @@
+<!--
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Arizonia&size=25&color=F7825D&lines=There+is+a+sweet+smell+of+roses+in+the+air.;love+at+first+sight;Look+at+that+moon.+It's+as+bright+as+a+light+bulb.)](https://git.io/typing-svg)
-
+-->
 ## Hi there, I'm Augus 👋
 
 - ❓Why is Augus?
