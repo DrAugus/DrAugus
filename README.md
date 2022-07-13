@@ -14,7 +14,7 @@
 > Do you really think I'm a **front-end** developer? No, I'm a **backend** developer.
 
 - 🐕‍🦺 currently working on DATA SECURITY
-- 📚 now learning C++, C#
+- 📚 now learning C++
 - ℹ️ [ask me](https://github.com/DrAugus/DrAugus/issues)
 - 🎮 **GENSHIN**, **OVERWATCH**
 - 🥂 daily else, practice [Italian](https://www.edilingua.it/), [French](https://mlp.fltrp.com/wys/bookstore/file?id=1135)
